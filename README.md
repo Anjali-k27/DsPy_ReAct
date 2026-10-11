@@ -345,3 +345,7 @@ the audit log.
 <img width="1757" height="821" alt="image" src="https://github.com/user-attachments/assets/c6e66acd-9eba-46d6-b76a-297a5a4fa3f5" />
 <img width="1747" height="722" alt="image" src="https://github.com/user-attachments/assets/80abfc3f-8467-448d-b195-356b93053f98" />
 
+**Terminal Output**
+
+<img width="1392" height="832" alt="image" src="https://github.com/user-attachments/assets/61726d79-3e73-4ded-9bb0-0b994043b3cf" />
+<img width="1386" height="296" alt="image" src="https://github.com/user-attachments/assets/03fffcf8-6a6a-476e-b8f0-e9b806c93ece" />
