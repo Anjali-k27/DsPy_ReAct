@@ -336,3 +336,12 @@ the audit log.
 ---
 
 *Built with DSPy 3.x · Gemini 2.5 Flash · Streamlit*
+
+## Output
+
+**Streamlit Output**
+
+<img width="1767" height="862" alt="image" src="https://github.com/user-attachments/assets/b9b4f949-996f-49ee-a8a2-e4c019a776ee" />
+<img width="1757" height="821" alt="image" src="https://github.com/user-attachments/assets/c6e66acd-9eba-46d6-b76a-297a5a4fa3f5" />
+<img width="1747" height="722" alt="image" src="https://github.com/user-attachments/assets/80abfc3f-8467-448d-b195-356b93053f98" />
+
